@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning ... Blockchain
 - 🤔 I’m looking for help with ... Blockchain
 - 💬 Ask me about ... Javascript
-- 😄 Pronouns: ... Whatevs
 - ⚡ Fun fact: I love coffee
-
 
 
 **Languages and Tools:**  
