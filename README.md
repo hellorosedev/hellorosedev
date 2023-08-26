@@ -4,10 +4,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ... Ionic, React, Angular, Vue Projects
-- 🌱 I’m currently learning ... Blockchain
-- 🤔 I’m looking for help with ... Blockchain
-- 💬 Ask me about ... Javascript
+- 🔭 I’m currently working on ... Ionic, React, Angular, Devops Technologies (CI/CD), Cloud (AWS and Azure), .NET
+- 🤔 I’m looking for help with ... More tools for Devops
+- 💬 Ask me about ... Javascript and techonology
 - ⚡ Fun fact: I love coffee
 
 
