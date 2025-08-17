@@ -4,7 +4,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ... Ionic, React, Angular, Devops Technologies (CI/CD), Cloud (AWS and Azure), .NET
+- 🔭 I’m currently working on ... Ionic, React, Angular, Devops Technologies (CI/CD), Cloud (Google Firebase, AWS and Azure), .NET
 - 🤔 I’m looking for help with ... More tools for Devops
 - 💬 Ask me about ... Javascript and technology
 - ⚡ Fun fact: I love coffee
