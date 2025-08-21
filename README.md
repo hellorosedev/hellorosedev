@@ -9,7 +9,7 @@
 - 💬 Ask me about ... Javascript and technology
 - ⚡ Fun fact: I love coffee
 
-**Github Contribution:**  
+**Github Contributions:**  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
