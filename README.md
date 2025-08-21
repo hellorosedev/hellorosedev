@@ -2,12 +2,16 @@
 
 ![bongo-cat-codes](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif)
 
+<br>
+
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on ... Ionic, React, Angular, Devops Technologies (CI/CD), Cloud (Google Firebase, AWS and Azure), .NET
 - 🤔 I’m looking for help with ... More tools for Devops
 - 💬 Ask me about ... Javascript and technology
 - ⚡ Fun fact: I love coffee
+
+<br>
 
 **Languages and Tools:**  
 
@@ -26,7 +30,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <br>
-<br>
+
 
 **Github Contributions:**
 
