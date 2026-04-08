@@ -1,4 +1,4 @@
-### Henlo! RoseCode here 👋
+### Henlo! HelloRose.Dev here 👋
 
 ![bongo-cat-codes](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif)
 
